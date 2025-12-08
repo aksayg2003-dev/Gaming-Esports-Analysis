@@ -51,3 +51,10 @@ The dataset includes:
 
 ## 📁 Project Structure
 
+Gaming-Esports-Analysis/
+│
+├── visuals/                                # Uploaded charts
+├── gaming_esports_analysis.ipynb           # Notebook
+├── global_gaming_esports_2010_2025.csv     # Dataset
+└── README.md                               # Documentation
+
