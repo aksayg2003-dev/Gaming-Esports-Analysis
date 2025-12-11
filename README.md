@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aksayg2003-dev/Ethnic-Diversity-Analysis/main/visuals/banner.png"
+  <img src="https://raw.githubusercontent.com/aksayg2003-dev/Ethnic-Diversity-Analysis/main/visuals/banner2.png"
        alt="Ethnic Diversity Analysis Banner" width="700px" height="350px">
 </p>
 
