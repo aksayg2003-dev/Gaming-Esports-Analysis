@@ -82,9 +82,12 @@ Install required libraries
 
 pip install pandas numpy matplotlib seaborn
 
-Open the notebook
+Open the notebook in Google Colab by uploading the file:
 
-jupyter notebook gaming_esports_analysis.ipynb
+1. Go to https://colab.research.google.com
+2. Click “Upload”
+3. Select gaming_esports_analysis.ipynb
+
 
 🧠 Conclusion
 
