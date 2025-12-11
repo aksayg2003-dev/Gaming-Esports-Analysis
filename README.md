@@ -58,3 +58,26 @@ Gaming-Esports-Analysis/
 ├── global_gaming_esports_2010_2025.csv     # Dataset
 └── README.md                               # Documentation
 
+🚀 How to Run This Project
+
+Clone the repository
+
+git clone https://github.com/aksayg2003-dev/Gaming-Esports-Analysis.git
+
+Install required libraries
+
+pip install pandas numpy matplotlib seaborn
+
+Open the notebook
+
+jupyter notebook gaming_esports_analysis.ipynb
+
+🧠 Conclusion
+
+This analysis provides a clear overview of how the global gaming and esports industry has evolved over time. The findings highlight growth in revenue, audience engagement, and tournament investments. The project demonstrates how data visualization and EDA can uncover major shifts in gaming trends and regional opportunities.
+
+⭐ Author
+
+AKSHAY G
+
+Feel free to explore more of my projects on GitHub or connect with me on LinkedIn.
