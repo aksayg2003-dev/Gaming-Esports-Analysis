@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aksayg2003-dev/Ethnic-Diversity-Analysis/main/visuals/banner2.png"
-       alt="Ethnic Diversity Analysis Banner" width="700px" height="350px">
+  <img src="https://raw.githubusercontent.com/aksayg2003-dev/Gaming-Esports-Analysis/main/visuals/banner2.png"
+       alt="Gaming & Esports Analysis Banner" width="700px" height="350px">
 </p>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
