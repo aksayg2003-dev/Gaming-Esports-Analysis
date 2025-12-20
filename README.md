@@ -88,6 +88,9 @@ Region slicer to compare geographic performance
 
 Cross-filtering enabled across all visuals
 
+![Global Gaming & Esports Dashboard](visuals/dash1.png)
+
+
 🧠 Key Insights
 
 Global gaming revenue shows a consistent upward trend over the years
