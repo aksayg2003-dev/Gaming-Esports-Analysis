@@ -42,6 +42,84 @@ The dataset includes:
 
 ---
 
+📊 Global Gaming & Esports Analytics Dashboard (2010–2025)
+
+This Power BI dashboard presents a comprehensive, executive-level analysis of the global gaming and esports ecosystem from 2010 to 2025, highlighting revenue trends, esports growth, platform dominance, and regional performance.
+
+📄 Dashboard Overview
+
+The dashboard is designed as a single-page analytical view with clear KPIs and supporting visuals to enable quick insights and data-driven decision-making.
+
+📌 Dashboard Components
+🔹 Key KPIs
+
+Total Gaming Revenue (USD)
+
+Total Esports Viewers (Millions)
+
+Total Esports Tournaments
+
+Average Internet Penetration (%)
+
+These KPIs provide a quick snapshot of the overall scale and growth of the gaming and esports industry.
+
+📈 Visual Analysis
+
+Global Gaming Revenue Trend (2010–2025)
+Line chart showing long-term revenue growth over time.
+
+Esports Viewers Growth Over Time
+Highlights fluctuations and overall increase in esports audience engagement.
+
+Revenue Share by Gaming Platform
+Donut chart comparing PC, Mobile, and Console contributions.
+
+Gaming Revenue by Region
+Bar chart comparing regional revenue distribution across major global regions.
+
+Top Game Genres by Revenue
+Shows the most profitable gaming genres globally.
+
+🎛 Interactive Features
+
+Year slicer for time-based analysis
+
+Region slicer to compare geographic performance
+
+Cross-filtering enabled across all visuals
+
+🧠 Key Insights
+
+Global gaming revenue shows a consistent upward trend over the years
+
+Mobile gaming contributes the largest share of total revenue
+
+Esports viewership has grown significantly, especially after 2018
+
+Asia and North America dominate global gaming revenue
+
+Action and Strategy genres lead in revenue contribution
+
+🛠 Tools & Technologies
+
+Power BI Desktop
+
+Power Query for data cleaning & transformation
+
+DAX for KPI calculations
+
+Custom layout & theme design
+
+📁 Files Included
+
+game.pbix – Power BI dashboard file
+
+visuals/dash1.png – Dashboard screenshot
+
+global_gaming_esports_2010_2025.csv – Source dataset
+
+---
+
 ## 📊 Key Insights (EDA)
 - Global gaming revenue has shown **continuous growth from 2010 to 2025**
 - **Asia & North America** lead in revenue and player base
